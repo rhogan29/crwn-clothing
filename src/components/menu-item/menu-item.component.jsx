@@ -1,5 +1,5 @@
 import React from 'react';
-// 
+// use this when exporting to allow access to history
 import { withRouter } from 'react-router-dom';
 
 //sass style sheet
